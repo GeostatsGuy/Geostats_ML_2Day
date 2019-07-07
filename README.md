@@ -16,7 +16,7 @@ You will gain:
 * General Overview - essential concepts from geostatistics
 * Data analytics - definitions, bootstrap, declustering
 * Spatial continuity - variogram  calculation and modeling, trend modeling and spatial estimations
-* Limitations with Geostatistics
+* Limitations with Subsurface Data-driven, Data Analytics, Geostatistics and Machine Learning
 * Machine Learning - dimensionality reduction, k-nearest neighbours, decision trees
 * Conclusions
 
