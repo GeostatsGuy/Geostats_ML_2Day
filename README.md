@@ -2,7 +2,7 @@
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png?raw=true" width="220" height="200" />
 </p>
 
-# 2 Day Course - Geostatistics and Machine Learning
+# 2 Day Course - Data Analytics, Geostatistics and Machine Learning
 
 2D course on geostatistics and machine learning  
 
